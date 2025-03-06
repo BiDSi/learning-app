@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project was created in March 2025 by Sloane Stein as part of the Ladder x Billion Dollar Startup Ideas internship program. Mentors were Sapna Sehgal and Michael Bervell.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
