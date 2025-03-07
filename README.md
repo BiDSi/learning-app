@@ -47,6 +47,22 @@ My internship followed a structured product development methodology:
 ## Competitive Advantage
 Study Buddy differentiates itself by focusing on personalized learning experiences that adapt to individual learning styles, filling a significant gap identified in our market research.
 
+### Competitor Comparison
+
+| Features | Quizlet | ZenAnki | Khan Academy / Open AI | MY APP | Study Buddy |
+|----------|:-------:|:-------:|:----------------------:|:------:|:-----------:|
+| Flashcards | ✓ | ✓ |  | X | ✓ |
+| Games | ✓ |  |  | X | ✓ |
+| Practice test/quiz | ✓ | ✓ | ✓ | X | ✓ |
+| Pictures and graphics related to study topic | ✓ | ✓ |  | X | ✓ |
+| Voice to text / Text to Voice | ✓ | ✓ | ✓ |  | ✓ |
+| Collaborate with other students | ✓ | ✓ |  |  | ✓ |
+| Step by step solutions |  |  | ✓ | X | ✓ |
+| Upload document and images | ✓ | ✓ | ✓ | X | ✓ |
+| Tailored experience based on learning style |  |  |  | X |  |
+| Time management assistance |  |  |  | X |  |
+
+As shown in the competitive analysis, Study Buddy combines the best features from existing platforms while adding unique capabilities around personalized learning paths and time management.
 ## Technologies Used
 - React.js
 - AI Integration (for personalized learning paths)
