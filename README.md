@@ -63,6 +63,45 @@ Study Buddy differentiates itself by focusing on personalized learning experienc
 | Time management assistance |  |  |  | X |  |
 
 As shown in the competitive analysis, Study Buddy combines the best features from existing platforms while adding unique capabilities around personalized learning paths and time management.
+
+## Wireframes and UI Design
+
+During the design phase, we created detailed wireframes to visualize the user experience and interface of Study Buddy. These wireframes helped us understand how users would interact with various features and ensure the design supported different learning styles.
+
+### Main Dashboard
+
+The main dashboard provides a clean, intuitive interface with:
+- Navigation menu for quick access to key areas (Dashboard, Courses, Study Groups, Profile)
+- Sidebar with categorized subjects and study tools
+- Progress tracking cards displaying daily study metrics
+- Upcoming tasks and deadlines
+- Quick resume option for ongoing learning sessions
+
+![Dashboard Wireframe](/assets/images/study-buddy-wireframe.png)
+
+### Learning Styles Profile
+
+A key differentiator for Study Buddy is the personalized learning profile that:
+- Analyzes and displays the user's primary learning style (Visual, Auditory, Kinesthetic, Social)
+- Provides customized study recommendations based on learning preferences
+- Displays optimal study patterns and timing
+- Suggests methods to develop weaker learning areas
+
+![Learning Styles Wireframe](/assets/images/learning-styles-page.png)
+
+### Interactive Learning Games
+
+Educational games designed to reinforce learning concepts with:
+- Level-based progression to match skill development
+- Real-time scoring and feedback
+- Power-ups and hints to assist with challenging problems
+- Visual progress tracking
+- Time-based challenges to improve recall speed
+
+![Math Quest Game Wireframe](/assets/images/math-quest-wireframe.png)
+
+These wireframes guided our development process and ensured that the final application would address the specific needs identified in our market research, particularly the focus on diverse learning styles and interactive study methods.
+
 ## Technologies Used
 - React.js
 - AI Integration (for personalized learning paths)
