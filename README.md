@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Study Buddy: A Project by Sloane Stein
 
 This project was created in March 2025 by Sloane Stein as part of the Ladder x Billion Dollar Startup Ideas internship program. Mentors were Sapna Sehgal and Michael Bervell.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## What is this project?
+In my app Study buddy it is an app that helps you study. Within this app, it is designed to be tailored to different learning styles such as visual, auditory, kinesthetic, ect.. Some tools to help you study are flashcards, step by step solutions, games, pictures related to study topics, practice tests/ quizzes, and being able to upload documents/files.
 
 ## Available Scripts
 
@@ -41,32 +44,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Learn
