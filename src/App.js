@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 
-const LearningApp = () => {
+const App = () => {
   const [activeTab, setActiveTab] = useState('home');
   const [score, setScore] = useState(0);
   const [level, setLevel] = useState(1);
