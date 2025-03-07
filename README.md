@@ -1,4 +1,4 @@
-# Study Buddy
+# Study Buddy: A Project by Sloane Stein
 
 ## Project Overview
 Study Buddy is an educational application developed during my 8-week internship with Billion Dollar Startup Ideas (March 2025). The app addresses a gap in the educational technology market by providing a learning experience tailored to different learning styles (visual, auditory, kinesthetic).
