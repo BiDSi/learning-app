@@ -150,4 +150,4 @@ This project was developed under the mentorship of Sapna Sehgal and Michael Berv
 
 ---
 
-© 2025 Sloane Stein | [LinkedIn](https://linkedin.com/in/sloanestein) | [Portfolio](https://sloanestein.com)
+© 2025 Sloane Stein
