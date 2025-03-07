@@ -108,9 +108,20 @@ These wireframes guided our development process and ensured that the final appli
 - Document processing libraries
 - Speech recognition and synthesis
 
-## Getting Started
+## Getting Started 
 
-Visit `http://localhost:3000` to view the application.
+This project is built with React and requires Node.js to be installed on your system. Follow these steps to set up and run the application locally: 
+
+### Prerequisites 
+- Node.js (v14.0.0 or later) 
+- npm (v6.0.0 or later) 
+
+### Installation 
+
+1. Clone the repository by running "git clone https://github.com/sloanestein/study-buddy.git"
+2. Navigate to the project directory "cd study-buddy"
+3. Install dependencies with "npm install"
+4. Start the development server "npm start"
 
 ## Project Structure
 The application follows a modular architecture with the following key components:
