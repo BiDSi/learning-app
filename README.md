@@ -70,3 +70,26 @@ As shown in the competitive analysis, Study Buddy combines the best features fro
 - Speech recognition and synthesis
 
 ## Getting Started
+
+Visit `http://localhost:3000` to view the application.
+
+## Project Structure
+The application follows a modular architecture with the following key components:
+- User authentication
+- Content management
+- Learning style assessment
+- Personalized learning paths
+- Progress tracking
+
+## Future Enhancements
+- Mobile application
+- Offline mode
+- Integration with LMS platforms
+- Enhanced analytics for learning optimization
+
+## Acknowledgements
+This project was developed under the mentorship of Sapna Sehgal and Michael Bervell as part of the Ladder x Billion Dollar Startup Ideas internship program.
+
+---
+
+© 2025 Sloane Stein | [LinkedIn](https://linkedin.com/in/sloanestein) | [Portfolio](https://sloanestein.com)
