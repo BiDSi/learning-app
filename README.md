@@ -1,47 +1,56 @@
-# Study Buddy: A Project by Sloane Stein
+# Study Buddy
 
-This project was created in March 2025 by Sloane Stein as part of the Ladder x Billion Dollar Startup Ideas internship program. Mentors were Sapna Sehgal and Michael Bervell.
+## Project Overview
+Study Buddy is an educational application developed during my 8-week internship with Billion Dollar Startup Ideas (March 2025). The app addresses a gap in the educational technology market by providing a learning experience tailored to different learning styles (visual, auditory, kinesthetic).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## The Problem
+Through extensive market research and competitive analysis, we identified that while there are many study tools available, none effectively combine comprehensive features with personalized learning style adaptation.
 
-## What is this project?
-In my app Study buddy it is an app that helps you study. Within this app, it is designed to be tailored to different learning styles such as visual, auditory, kinesthetic, ect.. Some tools to help you study are flashcards, step by step solutions, games, pictures related to study topics, practice tests/ quizzes, and being able to upload documents/files.
+## Development Journey
+My internship followed a structured product development methodology:
 
-## Available Scripts
+1. **Market Analysis & Problem Definition** (Weeks 1-2)
+   - Explored various app and business ideas
+   - Studied fundamental business principles: target market identification, problem-solution fit
+   - Identified education technology as an underserved market segment
 
-In the project directory, you can run:
+2. **Competitive Analysis** (Weeks 3-4)
+   - Conducted thorough analysis of existing solutions (Quizlet, ZenAnki, Khan Academy)
+   - Identified key feature gaps and opportunities for differentiation
+   - Established unique value proposition for Study Buddy
 
-### `npm start`
+3. **Product Design & Wireframing** (Weeks 5-6)
+   - Created comprehensive wireframes for the application
+   - Designed user flow for document uploading and solution generation
+   - Focused on intuitive UX for different learning modalities
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. **Development & AI Integration** (Weeks 7-8)
+   - Implemented core features using React
+   - Integrated AI capabilities for enhanced study experience
+   - Optimized for performance and user experience
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Key Features
 
-### `npm test`
+| Feature | Description |
+|---------|-------------|
+| Flashcards | Interactive study cards with spaced repetition |
+| Learning Games | Gamified approach to reinforce learning |
+| Practice Tests | Comprehensive assessments with performance analytics |
+| Visual Learning Tools | Graphics and diagrams to support visual learners |
+| Voice Integration | Text-to-speech and speech-to-text capabilities |
+| Collaborative Study | Tools for group study and knowledge sharing |
+| Step-by-Step Solutions | Detailed explanations for complex problems |
+| Document Upload | Support for various document formats |
+| Learning Style Adaptation | Content presentation tailored to individual learning styles |
+| Time Management | Tools to optimize study sessions and track progress |
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Competitive Advantage
+Study Buddy differentiates itself by focusing on personalized learning experiences that adapt to individual learning styles, filling a significant gap identified in our market research.
 
-### `npm run build`
+## Technologies Used
+- React.js
+- AI Integration (for personalized learning paths)
+- Document processing libraries
+- Speech recognition and synthesis
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn
+## Getting Started
