@@ -6,6 +6,14 @@ Study Buddy is an educational application developed during my 8-week internship 
 ## The Problem
 Through extensive market research and competitive analysis, we identified that while there are many study tools available, none effectively combine comprehensive features with personalized learning style adaptation.
 
+## Installation 
+
+1. Clone the repository by running "git clone https://github.com/sloanestein/study-buddy.git"
+2. Navigate to the project directory by running "cd study-buddy"
+3. Install dependencies by running "npm install"
+4. Start the development server by running "npm start"
+5. Open your browser and visit: "http://localhost:3000"
+
 ## Development Journey
 My internship followed a structured product development methodology:
 
@@ -116,12 +124,12 @@ This project is built with React and requires Node.js to be installed on your sy
 - Node.js (v14.0.0 or later) 
 - npm (v6.0.0 or later) 
 
-### Installation 
+### Available Scripts
 
-1. Clone the repository by running "git clone https://github.com/sloanestein/study-buddy.git"
-2. Navigate to the project directory "cd study-buddy"
-3. Install dependencies with "npm install"
-4. Start the development server "npm start"
+- `npm start` - Runs the app in development mode with hot reloading
+- `npm test` - Launches the test runner in interactive watch mode
+- `npm run build` - Builds the app for production to the `build` folder
+- `npm run eject` - Removes the single build dependency from the project
 
 ## Project Structure
 The application follows a modular architecture with the following key components:
