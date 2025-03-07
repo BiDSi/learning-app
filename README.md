@@ -9,7 +9,7 @@ Through extensive market research and competitive analysis, we identified that w
 ## Installation 
 
 1. Clone the repository by running "git clone https://github.com/BiDSi/learning-app.git"
-2. Navigate to the project directory by running "cd study-buddy"
+2. Navigate to the project directory by running "cd learning-app"
 3. Install dependencies by running "npm install"
 4. Start the development server by running "npm start"
 5. Open your browser and visit: "http://localhost:3000"
